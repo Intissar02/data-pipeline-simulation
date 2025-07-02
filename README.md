@@ -18,4 +18,8 @@ Showcase how tools like ADF, Databricks, SQL Server, DBT, Logic Apps, and DevOps
 | Logic Apps         | JSON automation trigger       |
 | Azure DevOps Git   | GitHub repo + commits         |
 
+## 📈 Architecture
 
+![Azure Diagram](diagrams/azure_architecture.png)
+
+## 📁 Structure
