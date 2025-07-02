@@ -1,1 +1,13 @@
+{
+  "trigger": {
+    "type": "BlobCreated",
+    "source": "Azure Blob Storage",
+    "path": "/crop-data/input/"
+  },
+  "action": {
+    "type": "RunNotebook",
+    "target": "Databricks",
+    "notebook": "databricks_simulated.ipynb"
+  }
+}
 
