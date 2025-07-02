@@ -1,1 +1,6 @@
+Region,Crop,Soil_Type,Nitrogen,Phosphorus,Potassium,Yield_Tons,Fertilizer_Type
+North,Wheat,Loamy,80,40,30,3.5,Urea
+South,Corn,Clay,60,50,20,4.2,Ammonium Sulphate
+East,Rice,Sandy,70,60,40,5.1,Superphosphate
+West,Barley,Loamy,65,55,25,2.9,Urea
 
